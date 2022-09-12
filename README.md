@@ -27,6 +27,11 @@ Using the Python and HTML I’ll b able add the code created above from my scrap
 
 ####    Execuation:
 
+![Screen Shot 2022-09-12 at 12 57 19 PM](https://user-images.githubusercontent.com/102995385/189748097-4eb2e116-38e0-4680-aea0-5a4962cea569.png)
+![Screen Shot 2022-09-12 at 12 57 40 PM](https://user-images.githubusercontent.com/102995385/189748171-47e2281b-d878-4783-b1fc-a182cd3f7455.png)
+![Screen Shot 2022-09-12 at 12 58 07 PM](https://user-images.githubusercontent.com/102995385/189748228-ed07220c-ec0d-4120-b4fb-7ea895e7a18f.png)
+
+
 
 After the scraping has been completed, the web app contains all the information and the full-resolution images and titles for the four hemisphere images.
 
