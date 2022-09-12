@@ -12,7 +12,7 @@ The code below helps us retrive the proper information/ url's we need to view te
   
   ![Screen Shot 2022-09-12 at 10 09 44 AM](https://user-images.githubusercontent.com/102995385/189735859-1c61af24-dea9-4d99-85b4-5e3ba9fb674c.png)
 
-The following gives us the output we are looking for. With the following information we will be bale to scrape date and presnt the date to Robin's fellows.
+The following gives us the output we are looking for. With the following information we will be bale to scrape date and presnt the date to Robin's fellows. The list contains the dictionary of the full-resolution image URL string and title for each hemisphere image.
 
 ![Screen Shot 2022-09-12 at 10 08 23 AM](https://user-images.githubusercontent.com/102995385/189736128-a0201f22-3cf7-46b7-8200-1da31a8b4a7f.png)
 
