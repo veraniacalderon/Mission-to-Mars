@@ -22,6 +22,13 @@ The list contains the dictionary of the full-resolution image URL string and tit
 
 
   
-### Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
+### Update the Web App with Mars Hemisphere Images and Titles
+Using the Python and HTML I’ll b able add the code created above from my scraping.py file, update my Mongo database, and modify my index.html file so the webpage contains all the information collected as well as the full-resolution image and title for each hemisphere image.
+
+####    Execuation:
+
+
+After the scraping has been completed, the web app contains all the information and the full-resolution images and titles for the four hemisphere images.
+
 
 ### Deliverable 3: Add Bootstrap 3 Components
